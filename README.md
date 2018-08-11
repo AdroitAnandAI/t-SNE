@@ -27,7 +27,7 @@ Attribute Information:
 
 Objective:
 
-Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2) based only on the words in the review.
+Given a review, we have to determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2) based only on the words in the review. For visualization, we deploy t-SNE to plot the data in 2 dimensions to check whether the data is seperable in 2-D space.
 
 
 This assignment is split in 5 parts for ease of execution.
