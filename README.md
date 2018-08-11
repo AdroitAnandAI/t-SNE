@@ -55,7 +55,7 @@ Main Challenges Encountered:
 frequent memory exceptions, which is obvious. Even after reducing the data points to a
 subset of < 5K, the program was throwing memory exception.
 • Solution Found: Ran the code in "Google Colabs" Platform. The platform enabled me to use
-> 10GB memory and to run the code faster. But there are some hiccups which I faced such
+more than 10GB memory and to run the code faster. But there are some hiccups which I faced such
 as frequent disconnections and kernel dying after 12-13GB memory usage. Also, packages
 need to be re-installed on every fresh run.
 2) Time Complexity of t-SNE: t-SNE was taking so many hours to execute. But we have to run
