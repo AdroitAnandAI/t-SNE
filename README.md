@@ -1,4 +1,4 @@
-# t-SNE *(t-distributed Stochastic Neighbor Embedding)*#
+# t-SNE *(t-distributed Stochastic Neighbor Embedding)*
 
 
 ## Amazon Fine Food Reviews Analysis ##
