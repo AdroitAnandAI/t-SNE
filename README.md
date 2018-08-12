@@ -41,10 +41,10 @@ This assignment is split in 5 parts for ease of execution.
 ## TSNE Plots ##
 
 ### Bag of Words ###
-![BoW1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/BoW1.png)
-![BoW2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/BoW2.png)
-![BoW3](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/BoW3.png)
-![BoW4](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/BoW4.png)
+![BoW1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow1.png)
+![BoW2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow2.png)
+![BoW3](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow3.png)
+![BoW4](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow4.png)
 
 ### TF-IDF ###
 
