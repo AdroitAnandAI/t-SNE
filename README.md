@@ -41,25 +41,25 @@ This assignment is split in 5 parts for ease of execution.
 ## TSNE Plots ##
 
 ### Bag of Words ###
-![BoW1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow1.png)
-![BoW2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow2.png)
-![BoW3](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow3.png)
-![BoW4](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow4.png)
+![BoW1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow1.PNG)
+![BoW2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow2.PNG)
+![BoW3](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow3.PNG)
+![BoW4](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/bow4.PNG)
 
 ### TF-IDF ###
 
-![tfidf1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf1.png)
-![tfidf2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf2.png)
+![tfidf1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf1.PNG)
+![tfidf2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/TFIDF2.PNG)
 
 ### Word2Vec ###
 
-![w2v1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/w2v1.png)
-![w2v2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/w2v2.png)
+![w2v1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/w2v1.PNG)
+![w2v2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/w2v2.PNG)
 
 ### TF-IDF weighted Word2Vec ###
 
-![tfidf-w2v1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf-w2v1.png)
-![tfidf-w2v2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf-w2v2.png)
+![tfidf-w2v1](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf-w2v1.PNG)
+![tfidf-w2v2](https://github.com/AdroitAnandAI/t-SNE/blob/master/Images/tfidf-w2v2.PNG)
 
 ## Main Challenges Encountered: ##
 
